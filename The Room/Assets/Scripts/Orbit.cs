@@ -10,6 +10,7 @@ public class Orbit : MonoBehaviour
         // transform = GetComponent<Transform>();
         
         //Actually, no need to define "transform" like this ourselves, since every MonoBehaviour already has a "transform" property built in that's defined exactly as we did above.
+        // Or rather, this.transform
 
         
     }
